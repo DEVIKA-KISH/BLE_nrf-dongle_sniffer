@@ -188,24 +188,26 @@ BLE connection is established using CONNECT_IND.
 
 ### Required Screenshots
 
-#### Setup
-- screenshots/setup_devices.png
-- screenshots/nrf_setup.png
-- screenshots/wireshark_interface.png
+## Screenshots
 
-#### BLE Configuration
-- screenshots/hci_enabled.png
+### Setup
+![Setup Devices](screenshots/setup_devices.png)
+![nRF Setup](screenshots/nrf_setup.png)
+![Wireshark Interface](screenshots/wireshark_interface.png)
 
-#### Advertising
-- screenshots/ble_advertising.png
+### BLE Configuration
+![HCI Enabled](screenshots/hci_enabled.png)
 
-#### Connection
-- screenshots/connect_ind.png
+### Advertising
+![BLE Advertising](screenshots/ble_advertising.png)
 
-#### EMAY Analysis
-- screenshots/emay_identification.png
-- screenshots/emay_gatt.png
+### Connection
+![Connection Indication](screenshots/connect_ind.png)
 
-#### Beurer Analysis
-- screenshots/beurer_identification.png
-- screenshots/beurer_gatt.png
+### EMAY Analysis
+![EMAY Identification](screenshots/emay_identification.png)
+![EMAY GATT](screenshots/emay_gatt.png)
+
+### Beurer Analysis
+![Beurer Identification](screenshots/beurer_identification.png)
+![Beurer GATT](screenshots/beurer_gatt.png)
