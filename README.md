@@ -185,3 +185,27 @@ BLE connection is established using CONNECT_IND.
 - BLE security depends heavily on pairing and encryption implementation
 
 ---
+
+### Required Screenshots
+
+#### Setup
+- screenshots/setup_devices.png
+- screenshots/nrf_setup.png
+- screenshots/wireshark_interface.png
+
+#### BLE Configuration
+- screenshots/hci_enabled.png
+
+#### Advertising
+- screenshots/ble_advertising.png
+
+#### Connection
+- screenshots/connect_ind.png
+
+#### EMAY Analysis
+- screenshots/emay_identification.png
+- screenshots/emay_gatt.png
+
+#### Beurer Analysis
+- screenshots/beurer_identification.png
+- screenshots/beurer_gatt.png
