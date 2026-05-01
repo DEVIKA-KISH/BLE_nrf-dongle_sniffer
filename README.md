@@ -39,7 +39,11 @@ Bluetooth Low Energy operates in the following layers:
 
 5. **GATT (Generic Attribute Profile)**
    - Defines services and characteristics
+## System Architecture
 
+The following diagram illustrates the BLE communication setup and data collection pipeline used in this project.
+
+![BLE Architecture](screenshots/ble_architecture.png)
 ---
 
 ## Experimental Setup
