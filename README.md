@@ -190,6 +190,8 @@ BLE connection is established using CONNECT_IND.
 
 ## Screenshots
 
+## Screenshots
+
 ### Setup
 ![Setup Devices](screenshots/setup_devices.png)
 ![nRF Setup](screenshots/nrf_setup.png)
